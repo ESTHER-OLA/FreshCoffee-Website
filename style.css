@@ -146,6 +146,7 @@ nav ul {
   }
   .container {
     padding: 0.8rem 1rem 0.8rem 1rem;
+    transition: 0.75s ease-out;
   }
 }
 @media (max-width: 400px) {
